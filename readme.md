@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">hello, I 'm Laurent</h1>
+<h1 align="center">hello, I 'm a FullStack and Blockchain Engineer</h1>
 
 ###
 
